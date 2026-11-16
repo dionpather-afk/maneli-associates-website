@@ -105,3 +105,9 @@ footer{padding-top:48px}
 .pagehero-image{object-position:center}
 
 /* Publish refreshed photo-led preview */
+
+/* Official supplied Maneli Associates logo */
+.brand{display:flex;align-items:center;gap:0;width:auto;color:var(--navy)}
+.brand:before{display:none}
+.brand img{display:block;width:142px;height:auto;max-height:76px;object-fit:contain}
+@media(max-width:650px){.brand img{width:120px;max-height:66px}}
