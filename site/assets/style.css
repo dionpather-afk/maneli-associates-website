@@ -117,3 +117,27 @@ footer{padding-top:48px}
 .brand img{display:block;width:220px;height:auto;max-height:none;max-width:100%;object-fit:contain;object-position:center;}
 @media(max-width:850px){.brand img{width:190px;}}
 @media(max-width:650px){.brand img{width:160px;max-height:none;}}
+
+/* Homepage visual match: crowned Maneli identity, ivory header, navy-and-gold navigation */
+header{background:#f7f3eb;border-bottom:2px solid #c6a56b;box-shadow:0 5px 22px #0c18301c}
+.head{min-height:104px;height:auto;padding:12px 0}
+.brand{width:228px;max-width:40vw}
+.brand img{width:100%;height:auto;max-height:none;object-fit:contain;display:block}
+nav{gap:8px;color:#14213a;font-family:Manrope,sans-serif;font-size:12px;letter-spacing:.045em}
+nav a{padding:12px 15px;color:#14213a;transition:background .2s,color .2s}
+nav a:hover{background:#e9dfca;color:#14213a}
+nav .navbtn{background:#14213a;color:#f7f3eb;border:1px solid #c6a56b;padding:13px 19px}
+nav .navbtn:hover{background:#c6a56b;color:#14213a}
+.hero{background:linear-gradient(112deg,#101a2e 0%,#172843 58%,#253653 100%)}
+.hero h1{font-family:Georgia,serif;font-weight:500}
+.hero h1 em{color:#d9bd82}
+.goldbtn{background:#c6a56b;color:#14213a;border:1px solid #e4cf9e;letter-spacing:.04em}
+.visual-photo{border:1px solid #c6a56b;box-shadow:0 24px 55px #060e1d66}
+.image-caption{background:#111d32f2;border-left:4px solid #c6a56b}
+@media(max-width:650px){
+ .head{min-height:78px;padding:8px 0}
+ .brand{width:170px;max-width:62vw}
+ nav{top:78px;background:#f7f3eb;border-top:1px solid #c6a56b}
+ nav a{border-bottom:1px solid #e7dece}
+ .menu{color:#14213a;border:1px solid #c6a56b;padding:7px 10px}
+}
