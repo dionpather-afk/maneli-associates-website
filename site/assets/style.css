@@ -103,3 +103,5 @@ footer{padding-top:48px}
 /* Photo-led imagery: crop cleanly without illustration styling */
 .visual-photo img{height:390px;object-fit:cover;object-position:center;border:1px solid #d4b477;border-radius:4px;box-shadow:0 18px 45px #030a1640}
 .pagehero-image{object-position:center}
+
+/* Publish refreshed photo-led preview */
