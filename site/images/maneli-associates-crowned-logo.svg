@@ -1,11 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 250" role="img" aria-labelledby="title desc">
-<title id="title">Maneli Associates crowned MA logo</title><desc id="desc">Champagne gold crown above a navy MA monogram, framed by a fine gold border, with Maneli Associates beneath.</desc>
-<rect x="8" y="8" width="504" height="234" rx="3" fill="#f7f3eb" stroke="#c6a56b" stroke-width="3"/>
-<path d="M196 65 L211 34 L235 57 L260 22 L285 57 L309 34 L324 65 Z" fill="none" stroke="#c6a56b" stroke-width="5" stroke-linejoin="round"/>
-<circle cx="196" cy="65" r="5" fill="#c6a56b"/><circle cx="260" cy="22" r="5" fill="#c6a56b"/><circle cx="324" cy="65" r="5" fill="#c6a56b"/>
-<path d="M190 76 H330" stroke="#c6a56b" stroke-width="2"/>
-<text x="260" y="160" text-anchor="middle" font-family="Georgia,serif" font-size="92" letter-spacing="-7" fill="#14213a">MA</text>
-<path d="M112 181 H408" stroke="#c6a56b" stroke-width="1.5"/>
-<text x="260" y="211" text-anchor="middle" font-family="Georgia,serif" font-size="25" letter-spacing="5" fill="#14213a">MANELI</text>
-<text x="260" y="230" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" letter-spacing="5" fill="#9a7845">A S S O C I A T E S</text>
+<title id="title">Maneli Associates crowned gold logo</title><desc id="desc">Gold crowned Maneli Associates crest and lettering on a deep navy background, framed by a gold border.</desc>
+<rect x="5" y="5" width="510" height="240" rx="2" fill="#102b49" stroke="#d6b66f" stroke-width="3"/>
+<g fill="none" stroke="#d6b66f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M220 68 L232 38 L252 57 L260 23 L269 57 L289 38 L300 68 Z"/><path d="M220 73 H300 M228 78 Q260 91 292 78"/>
+<path d="M205 87 Q180 107 190 144 Q194 160 211 169 M315 87 Q340 107 330 144 Q326 160 309 169"/>
+<path d="M197 102 L185 92 L190 113 L177 108 L190 132 M323 102 L335 92 L330 113 L343 108 L330 132"/>
+<path d="M211 91 L211 155 L260 111 L309 155 L309 91 M211 155 L260 155 L309 155"/>
+<path d="M226 144 L226 104 L260 136 L294 104 L294 144"/>
+<path d="M185 175 H335"/>
+</g>
+<text x="260" y="199" text-anchor="middle" font-family="Georgia,serif" font-size="43" letter-spacing="7" fill="#d6b66f">MANELI</text>
+<text x="260" y="222" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="8" fill="#f1dfb5">ASSOCIATES</text>
 </svg>
