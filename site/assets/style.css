@@ -111,3 +111,9 @@ footer{padding-top:48px}
 .brand:before{display:none}
 .brand img{display:block;width:142px;height:auto;max-height:76px;object-fit:contain}
 @media(max-width:650px){.brand img{width:120px;max-height:66px}}
+
+/* Full, uncropped official logo: preserve the complete 1.83:1 artwork */
+.brand{flex:0 0 auto;max-width:100%;}
+.brand img{display:block;width:220px;height:auto;max-height:none;max-width:100%;object-fit:contain;object-position:center;}
+@media(max-width:850px){.brand img{width:190px;}}
+@media(max-width:650px){.brand img{width:160px;max-height:none;}}
